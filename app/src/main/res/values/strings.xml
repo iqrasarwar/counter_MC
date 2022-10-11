@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">counter</string>
+    <string name="count">count</string>
+    <string name="countNum">0</string>
 </resources>
